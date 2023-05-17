@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h2>Teaching Assistantships</h2>
-EEL4837 Programming for Electrical Engineers II, University of Florida, Spring 2023
+<b>EEL4837 Programming for Electrical Engineers II</b>, University of Florida, Spring 2023
 <ul>
   <li>Topics: C++, data structure, algorithms</li>
 </ul>
