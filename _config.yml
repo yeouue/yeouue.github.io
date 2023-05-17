@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Qiangeng Yang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://yeouue.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Qiangeng Yang"
+description              : &description "Qiangeng Yang"
+url                      : https://yeouue.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yeouue/yeouue.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Qiangeng Yang"
   avatar           : "profile.png"
-  bio              : "Computer Engineering PhD student at University of Florida"
+  bio              : "PhD student in Computer Engineering at University of Florida"
   location         : "Gainesville, FL, USA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "q.yang@ufl.edu"
+  email            : q.yang at ufl dot edu
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yeouue"
+  github           : #"yeouue"
   google_plus      :
   keybase          :
   instagram        :
