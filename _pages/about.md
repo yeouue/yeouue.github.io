@@ -12,7 +12,7 @@ redirect_from:
 
 I am a PhD student in the [Florida Institute for Cybersecurity Research](https://fics.institute.ufl.edu/) of [University of Florida](https://www.ufl.edu/). My current research direction is human-centered computing, which focuses on the human factors in computer security issues, such as phishing, disinformation and malware, and involves multiple disciplines, including computer science, social engineering, psychology and law.
 
-I am currently seeking for internship as a researcher or software engineer in the next year. If you'd like to chat about any opportunities available, please feel free to reach out to me. 
+I am currently seeking internships as a researcher or software engineer for the next year. I'd appreciate it if you'd like to reach out and chat about any opportunities available. 
 
 
 <br>
