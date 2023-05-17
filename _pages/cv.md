@@ -10,50 +10,54 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+------
+* Ph.D. in Electrical and Computer Engineering, University of Florida, Dec 2024 (expected)
+* M.S. in Electrical and Computer Engineering, University of Florida, May 2021
+* B.S. in Electronics and Information Engineering, Wuhan University of Science and Technology, Jun 2019
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Research Experience
+------
+* Research Assistant, Florida Institute for Cybersecurity, University of Florida, Jan 2022 - present
+* Graduate Research Volunteer, Florida Institute for Cybersecurity, University of Florida, Sep 2020 - May 2021
+* Undergraduate Research Volunteer, College of Information Science and Engineering, Wuhan University of Science and Technology, Jan 2019 - June 2019
+
+
+Teaching Experience
+------
+* Teaching Assistant, Dept. of Electrical and Computer Engineering, University of Florida, Jan 2023 - May 2023
+
+
+Work Experience
+------
+* Software Engineer, SumTotal Systems, Nov 2021 - Dec 2021
+
 
 Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+------
+* *Under construction*
+
+
+Skills
+------
+* Programming languages: C++, Python, Java, C, MATLAB, MySQL, MongoDB
+* Tools/Frameworks: Git, AWS, Agile Scrum, Docker, Django, REST API, Wireshark, Tableau
+
+
+Honors and Awards
+------
+* USENIX Student Travel Grant, Boston, MA, Aug 2022 
+* The Academic Achievement Award Scholarship, University of Florida, Aug 2019
+*	Graduation with Honors, Wuhan University of Science and Technology, Jun 2019
+*	Outstanding Grad Scholarship, Wuhan University of Science and Technology, Jun 2019
+*	Second Class Scholarship, Wuhan University of Science and Technology, Sep 2018
+*	Hui Ka-Yan Third Class Scholarship, Wuhan University of Science and Technology, Nov 2017
+*	Top Grade Scholarship, Wuhan University of Science and Technology, Sep 2017
+*	Top Grade Scholarship, Wuhan University of Science and Technology, Sep 2016
+
   
 Service and leadership
-======
-* Currently signed in to 43 different slack teams
+------
+* Student Representative, Wuhan University of Science and Technology, Sep 2015 - Jun 2019
+  * Responsible for student administrative and academic affairs.
+
