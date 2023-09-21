@@ -36,12 +36,9 @@ Teaching Experience
 
   Jan 2023 - May 2023
 
-  - Course: EEL4837 - Programming for Electrical Engineers II
+  - Course: EEL4837 - Programming for Electrical Engineers II [[Syllabus]](https://www.ece.ufl.edu/wp-content/uploads/syllabi/Spring2023/EEL4837_Prog_EE_2_Ruchkin_Spring_2023.pdf)
 
     Topics: C++, data structure, algorithm
-  
-    [Syllabus](https://www.ece.ufl.edu/wp-content/uploads/syllabi/Spring2023/EEL4837_Prog_EE_2_Ruchkin_Spring_2023.pdf)
-
   
 
 Work Experience
@@ -70,15 +67,15 @@ Honors and Awards
 * **The Academic Achievement Award Scholarship**, University of Florida, Aug 2019
 *	**Graduation with Honors**, Wuhan University of Science and Technology, Jun 2019
 *	**Outstanding Graduate Award**, Wuhan University of Science and Technology, Jun 2019
-*	**Second Class Scholarship**, Wuhan University of Science and Technology, Sep 2018
+*	**Second Class Scholarship** (Top 5%), Wuhan University of Science and Technology, Sep 2018
 *	**Hui Ka-Yan Third Class Scholarship**, Wuhan University of Science and Technology, Nov 2017
-*	**Top Grade Scholarship**, Wuhan University of Science and Technology, Sep 2017
-*	**Top Grade Scholarship**, Wuhan University of Science and Technology, Sep 2016
+*	**Top Grade Scholarship** (Top 1%), Wuhan University of Science and Technology, Sep 2017
+*	**Top Grade Scholarship** (Top 1%), Wuhan University of Science and Technology, Sep 2016
 
   
-Service and leadership
+Service and Leadership
 ------
-* **Peer Reviewer**, the 7th Workshop on Online Abuse and Harms (WOAH) at ACL, May 2023
+* **Peer Reviewer**, The 7th Workshop on Online Abuse and Harms (WOAH) at ACL, May 2023
 * **Student Representative**, Wuhan University of Science and Technology
 
   Sep 2015 - Jun 2019
