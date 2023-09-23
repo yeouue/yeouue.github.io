@@ -50,14 +50,14 @@ Work Experience
 
 Publications
 ------
-* *Under construction*
+* *Coming soon! (Working hard toward interesting findings)*
 
 
 Skills
 ------
-* Programming languages: Python (mostly used), C++ (often used), MATLAB, HTML, Java, C
+* Programming languages: Python (used mostly), C++ (used often), MATLAB, HTML, Java, C#, C
 * Database: MySQL, MongoDB
-* Software/Frameworks: Git, AWS, Stata, SPSS, Tableau, Agile Scrum, Docker, REST API, Wireshark, 
+* Software/Frameworks: Git, AWS, Stata, SPSS, Tableau, Agile Scrum, Docker, REST API, Wireshark
 * Others: LaTex
 
 
@@ -76,8 +76,6 @@ Honors and Awards
 Service and Leadership
 ------
 * **Peer Reviewer**, The 7th Workshop on Online Abuse and Harms (WOAH) at ACL, May 2023
-* **Student Representative**, Wuhan University of Science and Technology
-
-  Sep 2015 - Jun 2019
+* **Student Representative**, Wuhan University of Science and Technology, Sep 2015 - Jun 2019
   * Responsible for student administrative and academic affairs.
 
