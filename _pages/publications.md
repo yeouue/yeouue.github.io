@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Under construction
+_Coming soon! (Working hard toward interesting findings)_
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
