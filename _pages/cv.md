@@ -19,22 +19,14 @@ Education
 
 Research Experience
 ------
-* **Research Assistant**, [Florida Institute for Cybersecurity](https://fics.institute.ufl.edu/), University of Florida
-
-  Jan 2022 - Present
-* **Graduate Research Volunteer**, Florida Institute for Cybersecurity, University of Florida
-  
-  Sep 2020 - May 2021
-* **Undergraduate Research Volunteer**, College of Information Science and Engineering, Wuhan University of Science and Technology
-
-  Jan 2019 - June 2019
+* **Research Assistant**, [Florida Institute for Cybersecurity](https://fics.institute.ufl.edu/), University of Florida, Jan 2022 - Present
+* **Graduate Research Volunteer**, Florida Institute for Cybersecurity, University of Florida, Sep 2020 - May 2021
+* **Undergraduate Research Volunteer**, College of Information Science and Engineering, Wuhan University of Science and Technology, Jan 2019 - June 2019
 
 
 Teaching Experience
 ------
-* **Teaching Assistant**, Department of Electrical and Computer Engineering, University of Florida
-
-  Jan 2023 - May 2023
+* **Teaching Assistant**, Department of Electrical and Computer Engineering, University of Florida, Jan 2023 - May 2023
 
   - Course: EEL4837 - Programming for Electrical Engineers II [[Syllabus]](https://www.ece.ufl.edu/wp-content/uploads/syllabi/Spring2023/EEL4837_Prog_EE_2_Ruchkin_Spring_2023.pdf)
 
@@ -43,9 +35,7 @@ Teaching Experience
 
 Work Experience
 ------
-* **Software Engineer**, [SumTotal Systems](https://www.sumtotalsystems.com/)
-
-  Nov 2021 - Dec 2021
+* **Software Engineer**, [SumTotal Systems](https://www.sumtotalsystems.com/), Nov 2021 - Dec 2021
 
 
 Publications
