@@ -10,9 +10,9 @@ redirect_from:
 
 **About**
 
-Welcome! I am a PhD student of [Florida Institute for Cybersecurity Research](https://fics.institute.ufl.edu/) at [University of Florida](https://www.ufl.edu/). My current research interest focuses on human-centered computing and social engineering, which studies human factors in computer security issues like phishing, disinformation, and malware. It involves multiple disciplines, including but not limited to computer science, social engineering, psychology, and law. I enjoy stepping out of my comfort zone to explore the unknown. 
+Welcome! I am a PhD student in [Florida Institute for Cybersecurity Research](https://fics.institute.ufl.edu/) at [University of Florida](https://www.ufl.edu/). My current research interest focuses on human-centered computing and social engineering for a better understanding of human factors in computer security issues, such as phishing, disinformation, and malware. It involves multiple disciplines, such as computer science, communications, psychology, and law, but focuses more on technologies to resolve issues. I enjoy stepping out of my comfort zone to explore the unknown. 
 
-I am seeking internships as a researcher or software engineer for Summer 2024. If you have any opportunities available, welcome to contact me!
+I am seeking internships as a researcher or software engineer for Summer 2024. If you know of any opportunities, you are more than welcome to contact me!
 
 
 <br>
