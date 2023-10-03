@@ -18,8 +18,8 @@ I am seeking internships as a researcher or software engineer for Summer 2024. I
 <br>
 
 <div style="display: flex; flex-direction: row;">
-  <img src="/files/fics.jpg" alt="FICS Logo" style="width: 25%;">
   <img src="/files/fins.png" alt="FINS Logo" style="width: 28%;"> 
+  <img src="/files/fics.jpg" alt="FICS Logo" style="width: 25%;">
 </div>
 
 <img src="/files/Horizontal_Logo-RGB_Raster-BLUE_ORANGE.png" alt="UF Logo" width="300">
