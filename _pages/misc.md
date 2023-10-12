@@ -8,7 +8,7 @@ author_profile: true
 In my free time, I have a lot of hobbies as my brain food.
 
 ## Language ##
-I am a big fan of languages. Culture represents a group of human beings, while language represents a king of culture. Research shows that learning a foreign language is beneficial for mental activities. Getting the hang of a language can help us understand more about our fellow human beings rather than live in a world filled with misunderstandings and biases and explore more amazing things created by us, the little speck in the universe. 
+I am a big fan of languages. Culture represents a group of human beings, while language represents a type of culture. Research shows that learning a foreign language is beneficial for mental activities. Getting the hang of a language can help us understand more about our fellow human beings rather than live in a world filled with misunderstandings and biases and explore more amazing things created by us, the little speck in the universe. 
 
 Here are the languages I can basically use:
 1. **English**: I started learning English at 7 as it is a mandatory subject in school. I did not find it difficult to learn English grammar and vocabulary, but I did not practice speaking a lot because the class focus in school was focus much on reading and writing. My English ability improved significantly after I moved to the United States, and I am still learning it every day.
