@@ -42,7 +42,7 @@ Some of my favorite writers include (updated occasionally):
 * [Yasunari Kawabata](https://en.wikipedia.org/wiki/Yasunari_Kawabata), Japanese novelist and short story writer, 1968 Nobel laureate in literature
 
 ## Music ##
-Music is the universal language of mankind. I learned keyboard (thus a bit piano as well) and [erhu](https://en.wikipedia.org/wiki/Erhu) at a young age. I like classical, pop, and country music. Here are some of my favorite musicians:
+Music is the universal language of mankind. I learned keyboard (thus a bit of piano as well) and [erhu](https://en.wikipedia.org/wiki/Erhu) at a young age. I like classical, pop, and country music. Here are some of my favorite musicians:
 * [Frédéric Chopin](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin), Polish composer and virtuoso pianist
 * [Lang Lang](https://en.wikipedia.org/wiki/Lang_Lang), Chinese pianist
 * [Arthur Rubinstein](https://en.wikipedia.org/wiki/Arthur_Rubinstein), Polish-American pianist
@@ -51,6 +51,6 @@ Music is the universal language of mankind. I learned keyboard (thus a bit piano
 * [Ed Sheeran](https://en.wikipedia.org/wiki/Ed_Sheeran), English singer-songwriter
 
 ## Sports ##
-I like various physical sports. I like running, swimming, and playing basketball and table tennis. As for intellectual sports, I like playing [Go](https://www.youtube.com/watch?v=WXuK6gekU1Y), one of the oldest boardgames and the most complicated one. You have probabily heard of it because of [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y) developed by Google Deepmind several years ago. 
+I like various physical sports. I like running, swimming, and playing basketball and table tennis. As for intellectual sports, I like playing [Go](https://www.youtube.com/watch?v=WXuK6gekU1Y), one of the oldest board games and the most complicated one. You have probably heard of it because of [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y) developed by Google Deepmind several years ago. 
 
 
