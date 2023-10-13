@@ -33,11 +33,11 @@ I am interested in any language worldwide, and I would like to learn as many lan
 I like reading widely and casually while relaxing myself. Although I do not limit the content I read, magic realism and life management are what I read the most. There are numerous great books, so the breadth of reading is more important than depth unless the content is important enough to slow down, think, and take a note. 
 
 Here are some books I would like to recommend (update occasionally):
-* [One Hundred Years of Solitude](https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude) by [Gabriel García Márquez](https://www.nobelprize.org/prizes/literature/1982/marquez/biographical/)
-* [Cold Mountain](https://en.wikipedia.org/wiki/Cold_Mountain_(novel)) by [Charles Frazier](https://en.wikipedia.org/wiki/Charles_Frazier)
-* [The Republic](https://en.wikipedia.org/wiki/Republic_(Plato)) by [Plato](https://en.wikipedia.org/wiki/Plato)
-* [The Social Animal](https://www.goodreads.com/en/book/show/203968) by [Elliot Aronson](https://aronson.socialpsychology.org/) and [Joshua Aronson](https://steinhardt.nyu.edu/people/joshua-aronson)
-* [The Almanack of Naval Ravikant: A Guide to Wealth and Happiness](https://www.navalmanack.com/) by [Eric Jorgenson](https://www.goodreads.com/author/show/4029970.Eric_Jorgenson)
+* [_One Hundred Years of Solitude_](https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude) by [Gabriel García Márquez](https://www.nobelprize.org/prizes/literature/1982/marquez/biographical/)
+* [_Cold Mountain_](https://en.wikipedia.org/wiki/Cold_Mountain_(novel)) by [Charles Frazier](https://en.wikipedia.org/wiki/Charles_Frazier)
+* [_The Republic_](https://en.wikipedia.org/wiki/Republic_(Plato)) by [Plato](https://en.wikipedia.org/wiki/Plato)
+* [_The Social Animal_](https://www.goodreads.com/en/book/show/203968) by [Elliot Aronson](https://aronson.socialpsychology.org/) and [Joshua Aronson](https://steinhardt.nyu.edu/people/joshua-aronson)
+* [_The Almanack of Naval Ravikant: A Guide to Wealth and Happiness_](https://www.navalmanack.com/) by [Eric Jorgenson](https://www.goodreads.com/author/show/4029970.Eric_Jorgenson)
 
 Some of my favorite writers include (update occasionally):
 * [Mo Yan](https://www.nobelprize.org/prizes/literature/2012/yan/facts/), Chinese novelist and short story writer, 2012 Nobel laureate in literature
@@ -85,7 +85,7 @@ In short, life is unpredictable and full of randomness, so I appreciate every se
 Just like what unpredictability means, my thoughts will also develop as my life goes on. I like talking to different people, so we can better understand each other and absorb new ideas to test our existing ideological framework. There are no right or wrong thoughts to me as long as they are ethical, even though right and wrong must exist regarding justice. That is, the robustness of ideology is shades of grey within the range of ethics covered by justice. 
 
 Here are some related ideas that shaped my views:
-* [The butterfly dream](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22), a metaphor in [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by [Zhuang Zhou](https://en.wikipedia.org/wiki/Zhuang_Zhou)
+* [The butterfly dream](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22), a metaphor in [_Zhuangzi_](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by [Zhuang Zhou](https://en.wikipedia.org/wiki/Zhuang_Zhou)
 * [Special relative](https://en.wikipedia.org/wiki/Special_relativity) and [general relativity](https://en.wikipedia.org/wiki/General_relativity) by [Albert Einstein](https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/)
 * [The origin of the universe](https://www.hawking.org.uk/in-words/lectures/the-origin-of-the-universe) by [Stephen Hawking](https://www.hawking.org.uk/biography)
 * [Karma](https://en.wikipedia.org/wiki/Karma)
