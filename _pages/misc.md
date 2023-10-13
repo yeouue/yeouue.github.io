@@ -8,7 +8,8 @@ Sharing and communication are important as we all need emotional support, conson
 
 
 # My Hobbies #
-In my free time, I have a lot of hobbies as my brain food.
+In my free time, I have a lot of hobbies as my brain food.  
+
 
 ## Language ##
 I am a big fan of languages. Culture represents a group of human beings, while language represents a type of culture. Research shows that learning a foreign language is beneficial for mental activities. Getting the hang of a language can help us understand more about our fellow human beings rather than live in a world filled with misunderstandings and biases and explore more amazing things created by us, the little speck in the universe. Language is the key to the door of a new world. 
@@ -68,7 +69,7 @@ Music is the universal language of mankind. I learned keyboard (thus a bit of pi
 
 
 ## Sports ##
-I like various physical sports, such as running, swimming, and playing basketball and table tennis. As for intellectual sports, I like playing [Go](https://en.wikipedia.org/wiki/Go_(game)), one of the oldest and the most complicated board games. You have probably heard of it because of [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y) developed by Google Deepmind in recent years. 
+I like various physical sports, such as running, swimming, and playing basketball and table tennis. As for intellectual sports, I like playing [Go](https://en.wikipedia.org/wiki/Go_(game)), one of the oldest and the most complicated board games. You have probably heard of it because of [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y) developed by Google Deepmind in recent years.  
 
 
 
@@ -84,7 +85,7 @@ In short, life is unpredictable and full of randomness. The meaning of my life i
 Just like what unpredictability means, my thoughts will also develop as my life goes on. I like talking to different people, so we can better understand each other and absorb new ideas to test our existing ideological framework. In my opinion, there are no right or wrong thoughts as long as they are ethical, even though right and wrong have to exist regarding justice. That is, the robustness of ideology is shades of grey within the range of ethics covered by justice. 
 
 Here are some related ideas that shaped my thoughts:
-* [The butterfly dream](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22), a chapter of [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by [Zhuang Zhou](https://en.wikipedia.org/wiki/Zhuang_Zhou)
+* [The butterfly dream](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22), a metaphor in [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by [Zhuang Zhou](https://en.wikipedia.org/wiki/Zhuang_Zhou)
 * [Special relative](https://en.wikipedia.org/wiki/Special_relativity) and [general relativity](https://en.wikipedia.org/wiki/General_relativity) by Albert Einstein
 * [Karma](https://en.wikipedia.org/wiki/Karma)
 * [Memento Mori](https://www.imdb.com/title/tt6181962/), documentary
