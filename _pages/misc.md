@@ -37,15 +37,15 @@ Here are some books I would like to recommend (update occasionally):
 
 Some of my favorite writers include (update occasionally):
 * [Mo Yan](https://en.wikipedia.org/wiki/Mo_Yan), Chinese novelist and short story writer, 2012 Nobel laureate in literature
+* [Gabriel García Márquez](https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez), Colombian novelist, short-story writer, screenwriter, and journalist, 1982 Nobel laureate in literature
 * [Sanmao](https://en.wikipedia.org/wiki/Sanmao_(writer)), Chinese writer and translator
 * [Ah Cheng](https://en.wikipedia.org/wiki/Ah_Cheng), Chinese novelist, scriptwriter, and painter
-* [Gabriel García Márquez](https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez), Colombian novelist, short-story writer, screenwriter, and journalist, 1982 Nobel laureate in literature
 * [Yasunari Kawabata](https://en.wikipedia.org/wiki/Yasunari_Kawabata), Japanese novelist and short story writer, 1968 Nobel laureate in literature
 
 
 ## Traveling ##
-Reading keeps me in touch with the world, but the best way to know more about the world is to travel and experience by yourself. It could be expensive, but it is worth it if applicable. 
-Here are some places I have visited and highly recommend (update ocassionally):
+Reading keeps me in touch with the world, but the best way to know more about the world is to travel, see, communicate, and feel by myself. It could be expensive, but it is worthwhile if applicable. 
+Here are some places I have visited and highly recommend (update occasionally):
 * [Boston](https://www.meetboston.com/), MA, USA
 * [Hongcun](https://whc.unesco.org/en/list/1002/), Anhui, China
 * [Macau](https://www.macaotourism.gov.mo/en/), China
@@ -54,13 +54,14 @@ Here are some places I have visited and highly recommend (update ocassionally):
 
 
 ## Music ##
-Music is the universal language of mankind. I learned keyboard (thus a bit of piano as well) and [erhu](https://en.wikipedia.org/wiki/Erhu) at a young age. I like classical, pop, and country music. Here are some of my favorite musicians (update ocassionally):
+Music is the universal language of mankind. I learned keyboard (thus a bit of piano as well) and [erhu](https://en.wikipedia.org/wiki/Erhu) at a young age. I like classical, pop, indie, and country music. Here are some of my favorite musicians (update occasionally):
 * [Frédéric Chopin](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin), Polish composer and virtuoso pianist
-* [Lang Lang](https://en.wikipedia.org/wiki/Lang_Lang), Chinese pianist
-* [Arthur Rubinstein](https://en.wikipedia.org/wiki/Arthur_Rubinstein), Polish-American pianist
-* [Yao Beina](https://en.wikipedia.org/wiki/Yao_Beina), Chinese singer
-* [Eason Chan](https://en.wikipedia.org/wiki/Eason_Chan), Chinese singer
-* [Ed Sheeran](https://en.wikipedia.org/wiki/Ed_Sheeran), English singer-songwriter
+* [Lang Lang](https://www.youtube.com/watch?v=j0tK9F_6g2w), Chinese pianist
+* [Arthur Rubinstein](https://www.youtube.com/watch?v=ttLRonyyMak), Polish-American pianist
+* [Yao Beina](https://www.youtube.com/watch?v=h8MjP2t1zXw), Chinese singer
+* [Eason Chan](https://www.youtube.com/watch?v=4cSRZbW-0Nc), Chinese singer
+* [Sodagreen](https://www.youtube.com/watch?v=cuEja-aL1Uk), Taiwanese indie band
+* [Taylor Swift](https://www.youtube.com/watch?v=jYa1eI1hpDE), American singer-songwriter
 
 
 ## Sports ##
