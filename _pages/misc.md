@@ -64,4 +64,4 @@ Music is the universal language of mankind. I learned keyboard (thus a bit of pi
 
 
 ## Sports ##
-I like various physical sports, such as running, swimming, and playing basketball and table tennis. As for intellectual sports, I like playing [Go](https://www.youtube.com/watch?v=WXuK6gekU1Y), one of the oldest and the most complicated board games. You have probably heard of it because of [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y) developed by Google Deepmind in recent years. 
+I like various physical sports, such as running, swimming, and playing basketball and table tennis. As for intellectual sports, I like playing [Go](https://en.wikipedia.org/wiki/Go_(game)), one of the oldest and the most complicated board games. You have probably heard of it because of [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y) developed by Google Deepmind in recent years. 
