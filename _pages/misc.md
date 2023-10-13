@@ -33,32 +33,32 @@ I am interested in any language worldwide, and I would like to learn as many lan
 I like reading widely and casually while relaxing myself. Although I do not limit the content I read, magic realism and life management are what I read the most. There are numerous great books, so the breadth of reading is more important than depth unless the content is important enough to slow down, think, and take a note. 
 
 Here are some books I would like to recommend (update occasionally):
-* [One Hundred Years of Solitude](https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude) by [Gabriel García Márquez](https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez)
+* [One Hundred Years of Solitude](https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude) by [Gabriel García Márquez](https://www.nobelprize.org/prizes/literature/1982/marquez/biographical/)
 * [Cold Mountain](https://en.wikipedia.org/wiki/Cold_Mountain_(novel)) by [Charles Frazier](https://en.wikipedia.org/wiki/Charles_Frazier)
 * [The Republic](https://en.wikipedia.org/wiki/Republic_(Plato)) by [Plato](https://en.wikipedia.org/wiki/Plato)
-* [The Social Animal](https://www.amazon.com/Social-Animal-Elliot-Aronson/dp/1464144184) by Elliot Aronson and Joshua Aronson
-* [The Almanack of Naval Ravikant: A Guide to Wealth and Happiness](https://www.navalmanack.com/)
+* [The Social Animal](https://www.goodreads.com/en/book/show/203968) by [Elliot Aronson](https://aronson.socialpsychology.org/) and [Joshua Aronson](https://steinhardt.nyu.edu/people/joshua-aronson)
+* [The Almanack of Naval Ravikant: A Guide to Wealth and Happiness](https://www.navalmanack.com/) by [Eric Jorgenson](https://www.goodreads.com/author/show/4029970.Eric_Jorgenson)
 
 Some of my favorite writers include (update occasionally):
-* [Mo Yan](https://en.wikipedia.org/wiki/Mo_Yan), Chinese novelist and short story writer, 2012 Nobel laureate in literature
-* [Gabriel García Márquez](https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez), Colombian novelist, short-story writer, screenwriter, and journalist, 1982 Nobel laureate in literature
-* [Sanmao](https://en.wikipedia.org/wiki/Sanmao_(writer)), Chinese writer and translator
-* [Ah Cheng](https://en.wikipedia.org/wiki/Ah_Cheng), Chinese novelist, scriptwriter, and painter
-* [Yasunari Kawabata](https://en.wikipedia.org/wiki/Yasunari_Kawabata), Japanese novelist and short story writer, 1968 Nobel laureate in literature
+* [Mo Yan](https://www.nobelprize.org/prizes/literature/2012/yan/facts/), Chinese novelist and short story writer, 2012 Nobel laureate in literature
+* [Gabriel García Márquez](https://www.nobelprize.org/prizes/literature/1982/marquez/biographical/), Colombian novelist, short-story writer, screenwriter, and journalist, 1982 Nobel laureate in literature
+* [Sanmao]([https://en.wikipedia.org/wiki/Sanmao_(writer)](https://www.chopsueyclub.com/blogs/blog/san-mao)), Chinese writer and translator
+* [Ah Cheng](https://www.ndbooks.com/author/ah-cheng/), Chinese novelist, scriptwriter, and painter
+* [Yasunari Kawabata](https://www.nobelprize.org/prizes/literature/1968/kawabata/biographical/), Japanese novelist and short story writer, 1968 Nobel laureate in literature
 
 
 ## Traveling ##
 Reading keeps me in touch with the world, but the best way to know more about the world is to travel, see, communicate, and feel by myself. It could be expensive, but it is worthwhile if applicable. 
 Here are some places I have visited and highly recommend (update occasionally):
-* [Boston](https://www.meetboston.com/), MA, USA
+* [Boston](https://www.meetboston.com/), MA, United States
 * [Hongcun](https://whc.unesco.org/en/list/1002/), Anhui, China
 * [Macau](https://www.macaotourism.gov.mo/en/), China
-* [Ko Lanta](https://www.kolanta.net/), Thailand
+* [Chiang Mai](https://en.wikipedia.org/wiki/Chiang_Mai), Thailand
 * [Malacca](https://www.melaka-tourism.com/), Malaysia
 
 
 ## Music ##
-Music is the universal language of mankind. I learned keyboard (thus a bit of piano as well) and [erhu](https://en.wikipedia.org/wiki/Erhu) at a young age. I like classical, pop, indie, and country music. Here are some of my favorite musicians (update occasionally):
+Music is the universal language of mankind. I learned keyboard (thus a bit of piano as well) and [erhu](https://en.wikipedia.org/wiki/Erhu) at a young age. I like classical, pop, indie, and country music. Only arts such as music and painting belong to human beings. Here are some of my favorite musicians (update occasionally):
 * [Frédéric Chopin](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin), Polish composer and virtuoso pianist
 * [Lang Lang](https://www.youtube.com/watch?v=j0tK9F_6g2w), Chinese pianist
 * [Arthur Rubinstein](https://www.youtube.com/watch?v=ttLRonyyMak), Polish-American pianist
@@ -69,23 +69,24 @@ Music is the universal language of mankind. I learned keyboard (thus a bit of pi
 
 
 ## Sports ##
-I like various physical sports, such as running, swimming, and playing basketball and table tennis. As for intellectual sports, I like playing [Go](https://en.wikipedia.org/wiki/Go_(game)), one of the oldest and the most complicated board games. You have probably heard of it because of [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y) developed by Google Deepmind in recent years.  
+I like various physical sports, such as running, swimming, and playing basketball and table tennis. As for intellectual sports, I like playing [Go](https://www.britannica.com/topic/go-game), one of the oldest and the most complicated board games. You have probably heard of it because of [AlphaGo](https://www.deepmind.com/research/highlighted-research/alphago) developed by Google DeepMind in recent years.  
 
 
 
 # My Philosophy #
-My ideas are heavily influenced by [Taoism](https://en.wikipedia.org/wiki/Taoism), [Chinese Buddism](https://en.wikipedia.org/wiki/Chinese_Buddhism), and [Confusianism](https://en.wikipedia.org/wiki/Confucianism). Although I have no religious belief as I regard religion as another way to explain and appreciate the world, I am interested in the core ideas of any religion and absorb some of them into my own worldview.
+My views are heavily influenced by [Taoism](https://en.wikipedia.org/wiki/Taoism), [Chinese Buddism](https://en.wikipedia.org/wiki/Chinese_Buddhism), and [Confusianism](https://en.wikipedia.org/wiki/Confucianism). Although I have no religious belief as I regard religion as another way to explain and appreciate the world, I am interested in the core ideas of any religion and absorb some of them into my own worldview.
 
 We can neither change the past nor accurately predict the future, and nothing can be done without external conditions. Working hard can satisfy one of the conditions for success, but if the results are still not what we expect, let it go. Even if I were able to exactly tell what would happen, such as who we would meet, when we would get a new job, and how much money we would make, many teeny-tiny things would not bring me surprise and happiness anymore. 
 
-We came to the earth, we met each other, and we created some wonderful memories. Eventually, we will die, the earth will die, and everything will vanish, just like we have never existed. Everything is so unpredictable, thus every second is cherishable, and even some bad experiences also help us become better. When I imagine I became old, what makes me regret would not be what I did but what I have never tried. 
+We came to the earth, met each other, and created some wonderful memories. Eventually, we will die, the earth will die, and everything will vanish, just like we have never existed. Everything is so unpredictable, thus every second is cherishable, and even some undesirable experiences also help us become better. When I get old and look back on my whole life, what makes me regret would not be what I did but what I never tried. 
 
-In short, life is unpredictable and full of randomness. The meaning of my life is to experience. Live in the moment!
+In short, life is unpredictable and full of randomness, so I appreciate every second. The only meaning of my life is to experience. Live in the moment.
 
-Just like what unpredictability means, my thoughts will also develop as my life goes on. I like talking to different people, so we can better understand each other and absorb new ideas to test our existing ideological framework. In my opinion, there are no right or wrong thoughts as long as they are ethical, even though right and wrong have to exist regarding justice. That is, the robustness of ideology is shades of grey within the range of ethics covered by justice. 
+Just like what unpredictability means, my thoughts will also develop as my life goes on. I like talking to different people, so we can better understand each other and absorb new ideas to test our existing ideological framework. There are no right or wrong thoughts to me as long as they are ethical, even though right and wrong must exist regarding justice. That is, the robustness of ideology is shades of grey within the range of ethics covered by justice. 
 
-Here are some related ideas that shaped my thoughts:
+Here are some related ideas that shaped my views:
 * [The butterfly dream](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22), a metaphor in [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by [Zhuang Zhou](https://en.wikipedia.org/wiki/Zhuang_Zhou)
-* [Special relative](https://en.wikipedia.org/wiki/Special_relativity) and [general relativity](https://en.wikipedia.org/wiki/General_relativity) by Albert Einstein
+* [Special relative](https://en.wikipedia.org/wiki/Special_relativity) and [general relativity](https://en.wikipedia.org/wiki/General_relativity) by [Albert Einstein](https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/)
+* [The origin of the universe](https://www.hawking.org.uk/in-words/lectures/the-origin-of-the-universe) by [Stephen Hawking](https://www.hawking.org.uk/biography)
 * [Karma](https://en.wikipedia.org/wiki/Karma)
 * [Memento Mori](https://www.imdb.com/title/tt6181962/), documentary
