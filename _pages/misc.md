@@ -73,13 +73,13 @@ I like various physical sports, such as running, swimming, and playing basketbal
 
 
 # My Philosophy #
-My ideas are heavily influenced by [Taoism](https://en.wikipedia.org/wiki/Taoism), [Chinese Buddism](https://en.wikipedia.org/wiki/Chinese_Buddhism), and [Confusianism](https://en.wikipedia.org/wiki/Confucianism). I have no religious belief as I regard religion as a way to explain and appreciate the world'', but I am interested in the core values of any religion 
+My ideas are heavily influenced by [Taoism](https://en.wikipedia.org/wiki/Taoism), [Chinese Buddism](https://en.wikipedia.org/wiki/Chinese_Buddhism), and [Confusianism](https://en.wikipedia.org/wiki/Confucianism). Although I have no religious belief as I regard religion as another way to explain and appreciate the world, I am interested in the core ideas of any religion and absorb some of them into my own worldview.
 
 We can neither change the past nor accurately predict the future, and nothing can be done without external conditions. Working hard can satisfy one of the conditions for success, but if the results are still not what we expect, let it go. Even if I were able to exactly tell what would happen, such as who we would meet, when we would get a new job, and how much money we would make, many teeny-tiny things would not bring me surprise and happiness anymore. 
 
 We came to the earth, we met each other, and we created some wonderful memories. Eventually, we will die, the earth will die, and everything will vanish, just like we have never existed. Everything is so unpredictable, thus every second is cherishable, and even some bad experiences also help us become better. When I imagine I became old, what makes me regret would not be what I did but what I have never tried. 
 
-In short, life is unpredictable and full of randomness. The meaning of my life is to experience. Live in the moment. 
+In short, life is unpredictable and full of randomness. The meaning of my life is to experience. Live in the moment!
 
 Just like what unpredictability means, my thoughts will also develop as my life goes on. I like talking to different people, so we can better understand each other and absorb new ideas to test our existing ideological framework. In my opinion, there are no right or wrong thoughts as long as they are ethical, even though right and wrong have to exist regarding justice. That is, the robustness of ideology is shades of grey within the range of ethics covered by justice. 
 
