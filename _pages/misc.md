@@ -4,7 +4,10 @@ title: "Misc"
 permalink: /misc/
 author_profile: true
 ---
+Sharing and communication are important as we all need emotional support, consonance, and discussion to shape and become who we are. Here, I would like to share more about me.
 
+
+# My Hobbies #
 In my free time, I have a lot of hobbies as my brain food.
 
 ## Language ##
@@ -66,3 +69,22 @@ Music is the universal language of mankind. I learned keyboard (thus a bit of pi
 
 ## Sports ##
 I like various physical sports, such as running, swimming, and playing basketball and table tennis. As for intellectual sports, I like playing [Go](https://en.wikipedia.org/wiki/Go_(game)), one of the oldest and the most complicated board games. You have probably heard of it because of [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y) developed by Google Deepmind in recent years. 
+
+
+
+# My Philosophy #
+My ideas are heavily influenced by [Taoism](https://en.wikipedia.org/wiki/Taoism), [Chinese Buddism](https://en.wikipedia.org/wiki/Chinese_Buddhism), and [Confusianism](https://en.wikipedia.org/wiki/Confucianism). I have no religious belief as I regard religion as a way to explain and appreciate the world'', but I am interested in the core values of any religion 
+
+We can neither change the past nor accurately predict the future, and nothing can be done without external conditions. Working hard can satisfy one of the conditions for success, but if the results are still not what we expect, let it go. Even if I were able to exactly tell what would happen, such as who we would meet, when we would get a new job, and how much money we would make, many teeny-tiny things would not bring me surprise and happiness anymore. 
+
+We came to the earth, we met each other, and we created some wonderful memories. Eventually, we will die, the earth will die, and everything will vanish, just like we have never existed. Everything is so unpredictable, thus every second is cherishable, and even some bad experiences also help us become better. When I imagine I became old, what makes me regret would not be what I did but what I have never tried. 
+
+In short, life is unpredictable and full of randomness. The meaning of my life is to experience. Live in the moment. 
+
+Just like what unpredictability means, my thoughts will also develop as my life goes on. I like talking to different people, so we can better understand each other and absorb new ideas to test our existing ideological framework. In my opinion, there are no right or wrong thoughts as long as they are ethical, even though right and wrong have to exist regarding justice. That is, the robustness of ideology is shades of grey within the range of ethics covered by justice. 
+
+Here are some related ideas that shaped my thoughts:
+* [The butterfly dream](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22), a chapter of [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by [Zhuang Zhou](https://en.wikipedia.org/wiki/Zhuang_Zhou)
+* [Special relative](https://en.wikipedia.org/wiki/Special_relativity) and [general relativity](https://en.wikipedia.org/wiki/General_relativity) by Albert Einstein
+* [Karma](https://en.wikipedia.org/wiki/Karma)
+* [Memento Mori](https://www.imdb.com/title/tt6181962/), documentary
