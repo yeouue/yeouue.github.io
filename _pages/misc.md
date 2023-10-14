@@ -63,9 +63,9 @@ Music is the universal language of mankind. I learned keyboard (thus a bit of pi
 * [Lang Lang](https://www.youtube.com/watch?v=j0tK9F_6g2w), Chinese pianist
 * [Arthur Rubinstein](https://www.youtube.com/watch?v=ttLRonyyMak), Polish-American pianist
 * [Yao Beina](https://www.youtube.com/watch?v=h8MjP2t1zXw), Chinese singer
-* [Eason Chan](https://www.youtube.com/watch?v=4cSRZbW-0Nc), Chinese singer
 * [Sodagreen](https://www.youtube.com/watch?v=cuEja-aL1Uk), Taiwanese indie band
-* [Taylor Swift](https://www.youtube.com/watch?v=jYa1eI1hpDE), American singer-songwriter
+* [Coldplay](https://www.youtube.com/watch?v=j82L3pLjb_0), British rock band
+* [Taylor Swift](https://www.youtube.com/watch?v=FvVnP8G6ITs), American singer-songwriter
 
 
 ### Sports ###
