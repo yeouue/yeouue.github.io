@@ -59,7 +59,7 @@ Here are some places I have visited and highly recommend (update occasionally):
 
 ## Music ##
 Music is the universal language of mankind. I learned keyboard (thus a bit of piano as well) and [erhu](https://en.wikipedia.org/wiki/Erhu) at a young age. I like classical, pop, indie, and country music. Here are some of my favorite musicians (update occasionally):
-* [Frédéric Chopin](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin), Polish composer and virtuoso pianist
+* [Frédéric Chopin](https://www.youtube.com/@chopininstitute), Polish composer and virtuoso pianist
 * [Lang Lang](https://www.youtube.com/watch?v=j0tK9F_6g2w), Chinese pianist
 * [Arthur Rubinstein](https://www.youtube.com/watch?v=ttLRonyyMak), Polish-American pianist
 * [Yao Beina](https://www.youtube.com/watch?v=h8MjP2t1zXw), Chinese singer
