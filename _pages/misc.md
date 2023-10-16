@@ -62,10 +62,10 @@ Music is the universal language of mankind. I learned keyboard (thus a bit of pi
 * [Frédéric Chopin](https://www.youtube.com/@chopininstitute), Polish composer and virtuoso pianist
 * [Lang Lang](https://www.youtube.com/watch?v=j0tK9F_6g2w), Chinese pianist
 * [Arthur Rubinstein](https://www.youtube.com/watch?v=ttLRonyyMak), Polish-American pianist
+* [Coldplay](https://www.youtube.com/watch?v=j82L3pLjb_0), British rock band
 * [Yao Beina](https://www.youtube.com/watch?v=h8MjP2t1zXw), Chinese singer
 * [Sodagreen](https://www.youtube.com/watch?v=cuEja-aL1Uk), Taiwanese indie band
-* [Coldplay](https://www.youtube.com/watch?v=j82L3pLjb_0), British rock band
-* [Taylor Swift](https://www.youtube.com/watch?v=FvVnP8G6ITs), American singer-songwriter
+
 
 
 ### Sports ###
