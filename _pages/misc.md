@@ -23,10 +23,10 @@ Here are the languages I can use confidently:
 I am interested in any language worldwide, and I would like to learn as many languages as possible. Here are the languages I am casually learning in my free time:
 * **French**: Its rhythm is intriguing!
 * **Dutch**: I like biking and windmills!
-* **Portuguese**: My advisor is originally from Brazil, a country full of passion for life in my impression! 
-* **Spanish**: It is the most used foreign language in America, especially in Florida where I live. 
-* **Russian**: It sounds cool!
 * **Korean**: I like some Korean TV shows and songs, and there are also a lot of similarities with Chinese.
+* **Spanish**: It is the most used foreign language in America, especially in Florida where I live. 
+* **Portuguese**: My former advisor is originally from Brazil, a country full of passion for life in my impression.
+* **Russian**: It sounds cool!
 
 
 ### Reading ###
@@ -85,7 +85,7 @@ In short, life is unpredictable and full of randomness, so I appreciate every se
 Just like what unpredictability means, my thoughts will also develop as my life goes on. I like to talk to different people to stay open-minded and absorb new ideas to challenge and refine my existing ideological framework. There are no right or wrong thoughts to me as long as they are within the range of ethics, although the concept of objective justice must exist in the wild to regulate society. 
 
 Here are some related ideas that shaped my views:
-* [_The butterfly dream_](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22), a metaphor in [_Zhuangzi_](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by [Zhuang Zhou](https://www.britannica.com/biography/Zhuangzi)
+* [_The Butterfly Dream_](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22), a metaphor in [_Zhuangzi_](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by [Zhuang Zhou](https://www.britannica.com/biography/Zhuangzi)
 * [Special relative](https://en.wikipedia.org/wiki/Special_relativity) and [general relativity](https://en.wikipedia.org/wiki/General_relativity) by [Dr. Albert Einstein](https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/)
 * [_The Origin of the Universe_](https://www.hawking.org.uk/in-words/lectures/the-origin-of-the-universe), a lecture by [Dr. Stephen Hawking](https://www.hawking.org.uk/biography)
 * [Karma](https://en.wikipedia.org/wiki/Karma)
