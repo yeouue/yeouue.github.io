@@ -74,7 +74,7 @@ I like various physical sports, such as running, swimming, and playing basketbal
 
 
 ## My Philosophy ##
-My views are heavily influenced by [Daoism](https://plato.stanford.edu/entries/daoism/), [Chinese Buddism](https://www.pewresearch.org/short-reads/2023/09/21/6-facts-about-buddhism-in-china/), and [Confusianism](https://www.britannica.com/topic/Confucianism/The-Analects-as-the-embodiment-of-Confucian-ideas). Although I have no religious belief as I regard religion as another way to explain and appreciate the world, I am interested in the core ideas of any religion and absorb some of them into my own worldview.
+My views are heavily influenced by [Daoism](https://plato.stanford.edu/entries/daoism/), [Chinese Buddism](https://www.pewresearch.org/short-reads/2023/09/21/6-facts-about-buddhism-in-china/), and [Confusianism](https://www.britannica.com/topic/Confucianism). Although I have no religious belief as I regard religion as another way to explain and appreciate the world, I am interested in the core ideas of any religion and absorb some of them into my own worldview.
 
 We can neither change the past nor predict the future, because every success requires the satisfaction of multiple conditions, including but not limited to hard work. If we tried our best yet still could not make it, just let it go. The world is full of randomness, so there must be something not for us and something else waiting for us. Even if we were able to accurately predict the future, such as who we would meet, when we would get a new job, and how much money we would make, life would become so boring because it is many surprising teeny-tiny things that make this journey full of excitement. 
 
@@ -85,8 +85,8 @@ In short, life is unpredictable and full of randomness, so I appreciate every se
 Just like what unpredictability means, my thoughts will also develop as my life goes on. I like to talk to different people to stay open-minded and absorb new ideas to challenge and refine my existing ideological framework. There are no right or wrong thoughts to me as long as they are within the range of ethics, although the concept of objective justice must exist in the wild to regulate society. 
 
 Here are some related ideas that shaped my views:
-* [The butterfly dream](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22), a metaphor in [_Zhuangzi_](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by [Zhuang Zhou](https://www.britannica.com/biography/Zhuangzi)
-* [Special relative](https://en.wikipedia.org/wiki/Special_relativity) and [general relativity](https://en.wikipedia.org/wiki/General_relativity) by [Albert Einstein](https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/)
-* [The origin of the universe](https://www.hawking.org.uk/in-words/lectures/the-origin-of-the-universe) by [Stephen Hawking](https://www.hawking.org.uk/biography)
+* [_The butterfly dream_](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22), a metaphor in [_Zhuangzi_](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by [Zhuang Zhou](https://www.britannica.com/biography/Zhuangzi)
+* [Special relative](https://en.wikipedia.org/wiki/Special_relativity) and [general relativity](https://en.wikipedia.org/wiki/General_relativity) by [Dr. Albert Einstein](https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/)
+* [_The Origin of the Universe_](https://www.hawking.org.uk/in-words/lectures/the-origin-of-the-universe), a lecture by [Dr. Stephen Hawking](https://www.hawking.org.uk/biography)
 * [Karma](https://en.wikipedia.org/wiki/Karma)
-* [Memento Mori](https://www.imdb.com/title/tt6181962/), documentary
+* [_Memento Mori_](https://www.imdb.com/title/tt6181962/), a documentary
