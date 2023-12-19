@@ -18,6 +18,7 @@ author_profile: true
           <li>State-affiliation labels and negative sentiment labels are more likely to cause negative effects on young people.</li>
           <li>Positive sentiment labels are more likely to have positive effects on the general population.</li>
         </ul>
+      </li>
     </ul>
   <li>(Under Review) [C1] Tess Christensen, Mirela Silva, Shlok Gilda, <b>Qiangeng Yang</b>, Daniel Capecci, Daniela Oliveira<br>
     <b>The Use of Social, Behavioral, and Economic Theories in Human Factors Phishing Research</b><br>
@@ -30,6 +31,7 @@ author_profile: true
             <li>Only a fifth of phishing studies leveraged SBE theories.</li>
             <li>More significant theories that may be crucial for developing anti-phishing solutions (e.g., decision-making and deception detection) were not paid enough attention to by researchers.</li>
           </ul>
+        </li>
       </ul>
   </li>
 </ul>
