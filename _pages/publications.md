@@ -5,7 +5,7 @@ author_profile: true
 ---
 **J: Journal; C: Conference**
 
-**Any publication currently under review without a preprint provided will be available in a peer-reviewed manuscript or preprint after the reviewing process, as per the submission requirements of the venues.**
+_Any publications currently under review without a preprint provided will be available in peer-reviewed manuscripts or preprints after the reviewing process, as per the submission requirements by the venues._
 
 ## 2023 ##
 <ul>
