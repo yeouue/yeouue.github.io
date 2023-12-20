@@ -5,6 +5,8 @@ author_profile: true
 ---
 **J: Journal; C: Conference**
 
+**Any publication currently under review without a preprint provided will be available in a peer-reviewed manuscript or preprint after the reviewing process, as per the submission requirements of the venues.**
+
 ## 2023 ##
 <ul>
   <li>(Under Review) [J1] <b>Qiangeng Yang</b>, Yoo Jin Chung, Juliana Fernandes, Daniela Oliveira<br>
